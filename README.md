@@ -10,7 +10,7 @@ This repository contains an HTML email template designed for responsive emails. 
 
 ## Demo
 
-For a live preview of the email template, click [here](#).
+For a live preview of the email template, click [here](https://hadep275.github.io/Email1/).
 
 ## Usage
 
