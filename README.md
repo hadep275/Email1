@@ -1,9 +1,5 @@
 # HTML Email Template
 
-![Email Template Preview](preview.png)
-
-## Overview
-
 This repository contains an HTML email template designed for responsive emails. It's crafted with compatibility across various email clients and devices in mind.
 
 ## Features
@@ -21,7 +17,7 @@ For a live preview of the email template, click [here](#).
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/hadep275/Email1.git
     ```
 
 2. Open the `index.html` file in your preferred code editor.
